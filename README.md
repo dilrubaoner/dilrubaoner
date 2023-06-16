@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilruba Öner</h1>
+<h1 align="center">Hi 👾 , I'm Dilruba Öner</h1>
 <h3 align="center">Junior Game Developer and Computer Science Student</h3>
 
 - 🔭 I’m currently working on **Unity**
