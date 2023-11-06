@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👾 , I'm Dilruba Öner</h1>
-<h3 align="center">Junior Game Developer and Computer Science Student</h3>
+<h3 align="center">Junior Game Developer,Software Engineering Student,Java Learner </h3>
 
-- 🔭 I’m currently working on **Unity**
-
-- 🌱 I’m currently learning **Unity,C#,Java**
+- 🌱 I’m currently learning **C#,Java**
 
 
 <h3 align="left">Languages and Tools:</h3>
